@@ -1,4 +1,0 @@
-TESTE
-entendendo o HEAD
-modificando linha no ramo master
-modificando arquivo na branch teste
